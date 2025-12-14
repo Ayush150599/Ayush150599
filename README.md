@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush150599" alt="ayush150599" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 Currently learning **Spring Security**
 
 - 👨‍💻 All of my projects are available at [https://ayush-srivastava-portfolio.lovable.app/](https://ayush-srivastava-portfolio.lovable.app/)
 
